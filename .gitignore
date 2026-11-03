@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# pytest / 缓存
+.pytest_cache/
+.cache/
+
+# 环境变量
+.env
+
+# 测试报告（运行时自动生成，不提交）
+reports/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 操作系统
+Thumbs.db
